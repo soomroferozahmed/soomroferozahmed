@@ -7,7 +7,7 @@ Data Scientist | Data Analyst
 Junior Data Scientist | Junior Data Analyst 👨🏻‍💻 | Scientific Machine Learning Researcher 👨🏻‍🎓
 
 * 🌍  I'm based in Selangor, Malaysia
-* 🖥️  See my portfolio at [https://zhuuukds.github.io/](http://zhuuukds.github.io/)
+* 🖥️  See my portfolio at [https://soomroferozahmed.github.io/](http://zhuuukds.github.io/)
 * ✉️  You can contact me at [soomroferozahmed@outlook.com](mailto:soomroferozahmed@outlook.com)
 * 🌱  I have a Ph.D. in Mathematics
 * 🧠  I'm learning Machine Learning, Scikit-learn, Pandas, PySpark
