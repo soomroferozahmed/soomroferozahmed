@@ -47,12 +47,6 @@ Currently, I focus on improving my data analysis skills. I have advanced skills 
 <p align="left"> <a href="https://www.facebook.com/ferozahmedsumro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://github.com/soomroferozahmed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/feroz-ahmed-soomro/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/AhmedFeroz86529" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>  <a href="https://www.kaggle.com/ferozahmedsoomro"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 </p>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/zhuuukds"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-
-
 
 <!---
 ZhuuukDS/ZhuuukDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
