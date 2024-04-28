@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Feroz Ahmed Soomro</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
+<h3 align="left">Data Scientist | Data Analyst</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
