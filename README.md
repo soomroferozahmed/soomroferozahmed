@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexey Zhukov
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Feroz Ahmed Soomro
 =====================================================================================================================================
 
 Data Scientist | Data Analyst
 -----------------------------
 
-Junior Data Scientist | Experienced Data Analyst 👨🏻‍💻 | Grad student at the University of Colorado Boulder 👨🏻‍🎓 | Keep tracking my Data Science journey 🌞
+Junior Data Scientist | Junior Data Analyst 👨🏻‍💻 | Scientific Machine Learning Researcher 👨🏻‍🎓
 
-* 🌍  I'm based in Kiryat Motzkin, Israel
+* 🌍  I'm based in Selangor, Malaysia
 * 🖥️  See my portfolio at [https://zhuuukds.github.io/](http://zhuuukds.github.io/)
-* ✉️  You can contact me at [zhuuukds@gmail.com](mailto:zhuuukds@gmail.com)
-* 🌱 I’m currently pursuing master's degree in data science at University of Colorado Boulder
+* ✉️  You can contact me at [soomroferozahmed@outlook.com](mailto:soomroferozahmed@outlook.com)
+* 🌱  I have a Ph.D. in Mathematics
 * 🧠  I'm learning Machine Learning, Scikit-learn, Pandas, PySpark
 * 🤝  I'm open to opportunities in Data Science projects
 * ⚡  A learner by birth and Data Scientist by choice
