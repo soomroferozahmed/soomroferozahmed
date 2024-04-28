@@ -14,15 +14,11 @@ Junior Data Scientist | Junior Data Analyst 👨🏻‍💻 | Scientific Machine
 * 🤝  I'm open to opportunities in Data Science projects
 * ⚡  A learner by birth and Data Scientist by choice
 
-<a href="https://www.twitter.com/zhuuukds" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/zhuuukds?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Background
 
 I've been always impassioned about data. I often dived into data sorting, finding missing information and data examination. I did it in my daily job even when it wasn't required. I have always been aware that everything around us is data or can be converted into a data form. 
 
-At the beginning of 2020, I decided to change my career path and fully switch to the data science industry. I started with multiple MOOCs learning in such areas as statistics, programming, and algorithms. That helped me to use my growing knowledge in my everyday job.
+At the beginning of 2023, I decided to change my career path and fully switch to the data science industry. I started with multiple MOOCs learning in such areas as statistics, programming, and algorithms. That helped me to use my growing knowledge in my everyday job.
 
 My passion brought me to the University of Colorado Boulder where I'm pursuing a master's degree in Data Science. This is a fully online remote program, so I can combine my studies with a full-time job.
 
