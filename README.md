@@ -15,7 +15,7 @@ Junior Data Scientist | Junior Data Analyst 👨🏻‍💻 | Scientific Machine
 * ⚡  A learner by birth and Data Scientist by choice
 
 <a href="[https://www.twitter.com/zhuuukds](https://www.youtube.com/channel/UCOICCRiK9jZXCB1cFkGNYCg)" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/youtube/follow/ferozahmedsoomro?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/Youtube/follow/ferozahmedsoomro?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Background
