@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist | Data Analyst
 -----------------------------
 
-Junior Data Scientist 👨 | Junior Data Analyst 👨🏻‍💻 | Scientific Machine Learning Researcher 👨🏻‍🎓 
+Ph.D. Mathematics | Healthcare Data Analyst | Scientific Machine Learning Researcher
 
 * 🌍  I'm based in Selangor, Malaysia
 * 🖥️  See my portfolio at [https://soomroferozahmed.github.io/](http://zhuuukds.github.io/)
